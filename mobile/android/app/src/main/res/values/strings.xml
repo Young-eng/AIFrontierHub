@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Frontier Hub</string>
+    <string name="title_activity_main">Frontier Hub</string>
+    <string name="package_name">com.frontierhub.app</string>
+    <string name="custom_url_scheme">com.frontierhub.app</string>
+</resources>
